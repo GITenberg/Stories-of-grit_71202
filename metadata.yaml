@@ -5,12 +5,17 @@ contributor:
     agent_name: Statten, Taylor
     gutenberg_agent_id: '56119'
     url: http://www.gutenberg.org/2009/agents/56119
+covers:
+- cover_type: archival
+  image_path: 71202-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Wallace, Archer
     gutenberg_agent_id: '56118'
     url: http://www.gutenberg.org/2009/agents/56118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71202#Stories-of-grit
 gutenberg_issued: '2023-07-16'
 identifiers:
   gutenberg: '71202'
